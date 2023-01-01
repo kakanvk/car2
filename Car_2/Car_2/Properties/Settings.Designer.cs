@@ -8,6 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using System;
+using System.Windows.Forms;
+
 namespace Car_2.Properties
 {
 
@@ -25,6 +28,11 @@ namespace Car_2.Properties
             {
                 return defaultInstance;
             }
+        }
+
+        internal DialogResult ShowDialog()
+        {
+            throw new NotImplementedException();
         }
     }
 }

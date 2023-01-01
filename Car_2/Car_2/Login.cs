@@ -12,24 +12,11 @@ namespace Car_2
 {
     public partial class Login : Form
     {
+        public static string ID_LEVEL = "";
+        public static string ID_STAFF = "";
         public Login()
         {
             InitializeComponent();
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void gunaLabel3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void gunaTextBox2_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void gunaButton1_Click(object sender, EventArgs e)
@@ -37,6 +24,11 @@ namespace Car_2
             this.Hide();
             TrangChu newTrangChu = new TrangChu();
             newTrangChu.Show();
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -17,3 +17,22 @@ C:\Ka Project\Car_2\Car_2\obj\Debug\Car_2.PhieuNhapMoi.resources
 C:\Ka Project\Car_2\Car_2\obj\Debug\Car_2.ChiTietPhieuNhap.resources
 C:\Ka Project\Car_2\Car_2\obj\Debug\Car_2.NSX.resources
 C:\Ka Project\Car_2\Car_2\obj\Debug\Car_2.NSXMoi.resources
+D:\xeOTo\car2\Car_2\Car_2\bin\Debug\Car_2.exe.config
+D:\xeOTo\car2\Car_2\Car_2\bin\Debug\Car_2.exe
+D:\xeOTo\car2\Car_2\Car_2\bin\Debug\Car_2.pdb
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.csproj.AssemblyReference.cache
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.csproj.SuggestedBindingRedirects.cache
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.ChiTietPhieuNhap.resources
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.NSX.resources
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.NSXMoi.resources
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.PhieuNhapMoi.resources
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.Login.resources
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.PhieuNhap.resources
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.Properties.Resources.resources
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.TrangChu.resources
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.csproj.GenerateResource.cache
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.csproj.CoreCompileInputs.cache
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.csproj.CopyComplete
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.exe
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.pdb
+D:\xeOTo\car2\Car_2\Car_2\obj\Debug\Car_2.nhanVien.resources

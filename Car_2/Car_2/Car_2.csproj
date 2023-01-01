@@ -57,6 +57,7 @@
     <Compile Include="ChiTietPhieuNhap.Designer.cs">
       <DependentUpon>ChiTietPhieuNhap.cs</DependentUpon>
     </Compile>
+    <Compile Include="help.cs" />
     <Compile Include="NSX.cs">
       <SubType>Form</SubType>
     </Compile>
